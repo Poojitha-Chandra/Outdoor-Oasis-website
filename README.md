@@ -3,7 +3,7 @@ It is a camp glamming resort or hotel :hotel: where you can see the northern lig
 # <h2>Features</h2>
 - Dark Nav bar at the top with underline :fog: effect that goes on away for smaller screen sizes.
 - Main heading centered horizontally and vertically.
-- Clicking on book opens a modal so that you can submit a reservation request.
+- Clicking on book opens a modal so that you can submit a reservation :receipt: request.
 - Next section comes with some icons and random texts.
 - And then we have two cards with more information.
 - Further down we have some quotes from our campers :luggage:
